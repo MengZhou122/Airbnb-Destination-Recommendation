@@ -8,8 +8,8 @@ Training data2 contains 10 millions of their operations and time periods of the 
 
 Based on this data, we will build a model to predict the country of destination of a new registered user based on his/her information and operations.
 
-Preprocessed and purified raw data with Python on Jupyter Notebook with Pandas, Scikit-learn, Numpy libraries
+Preprocessed and purified raw data with Python on Jupyter Notebook with Pandas, Scikit-learn, Numpy libraries.
 
-Applied multiple classifiers (KNN, Naive Bayes, Random Forest, XGBoost), various hyperparameter combinations and Cross-validation to select the most proper model, presented the result in graphs with matplotlib
+Applied multiple classifiers (KNN, Naive Bayes, Random Forest, XGBoost), various hyperparameter combinations and Cross-validation to select the most proper model, presented the result in graphs with matplotlib.
 
-Optimized final model and got 0.70 NDCG and 65% accuracy, ranked top 15% among all competition participants
+Optimized final model and got 0.70 NDCG and 65% accuracy, ranked top 15% among all competition participants.
