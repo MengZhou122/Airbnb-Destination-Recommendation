@@ -10,6 +10,6 @@ Based on this data, we will build a model to predict the country of destination 
 
 Preprocessed and purified raw data with Python on Jupyter Notebook with Pandas, Scikit-learn, Numpy libraries.
 
-Applied multiple classifiers (KNN, Naive Bayes, Random Forest, XGBoost), various hyperparameter combinations and Cross-validation to select the most proper model, presented the result in graphs with matplotlib.
+Applied multiple models (KNN, Naive Bayes, Random Forest, XGBoost) and hyperparameter combinations to cross-validation and select the most proper model, compared and presented the result in graphs with matplotlib.
 
-Optimized final model and got 0.70 NDCG and 65% accuracy, ranked top 15% among all competition participants.
+Optimized final model got 0.70 NDCG and 65% accuracy, ranked top 15% among all competition participants.
